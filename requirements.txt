@@ -1,0 +1,6 @@
+﻿matplotlib==3.8.2
+mysql-connector-python==8.0.33
+numpy==1.26.1
+SQLAlchemy==1.4.9
+SQLAlchemy-JSONField==1.0.0
+SQLAlchemy-Utils==0.38.2

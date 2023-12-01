@@ -1,0 +1,3 @@
+https://pynative.com/python-mysql-database-connection/
+
+https://stackoverflow.com/questions/6027271/python-mysql-insert-not-working
